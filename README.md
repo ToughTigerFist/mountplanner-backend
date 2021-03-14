@@ -1,1 +1,0 @@
-# mountplanner-backend
